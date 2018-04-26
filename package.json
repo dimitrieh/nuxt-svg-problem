@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-svg-problem",
+  "dependencies": {
+    "nuxt": "^1.4.0"
+  },
+  "scripts": {
+    "dev": "nuxt"
+  }
+}
