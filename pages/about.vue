@@ -12,10 +12,17 @@
 </template>
 
 <script>
+export default {
+  head: {
+    bodyAttrs: {
+      class: 'red'
+    }
+  }
+}
 </script>
 
 <style>
-body {
+.red {
   background: red;
 }
 a, h1 {
